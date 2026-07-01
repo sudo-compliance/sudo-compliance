@@ -13,16 +13,18 @@
 - 🎓 BSc, Mass Communication  
 - 🎓 MSc, Enterprise Cybersecurity — *In view*  
 - 🔐 Passionate about **Information Security**, **Governance, Risk & Compliance (GRC)** and **Security Operations**  
-- 📚 Certifications: ISO/IEC 27001:2022 ISMS Lead Auditor, SSCP, CySA+, CompTIA Security+, BCS CISMP, ISC2 CC, SC-900, Highfield Level 2 Certificate in Team Leading Principles (RQF), Atlassian ITSM & Agile  
-- 🛡️ Experience in Technical IT, GRC, incident response, security operations and IT service delivery  
-- 🌱 Current goals: CISM
+- 📚 Certifications: ISO/IEC 27001:2022 Lead Auditor, SSCP, CompTIA CySA+, BCS CISMP, CISM (in progress)  
+- 🛡️ Experience in Technical IT, GRC, incident response, security operations and IT service delivery
 
 ---
 
 ## 🧑‍💻 Projects & Labs
 
-- 🛡️ **[GRC Intelligence Dashboard](https://github.com/sudo-compliance/grc-dashboard)**  
-  A local-first, browser-based compliance tracking dashboard covering nine frameworks — ISO 27001, ISO 42001, NIST CSF 2.0, PCI-DSS v4.0, DORA, CIS Controls v8, SOC 2, UK GDPR, and Cyber Essentials — with cross-framework mapping, risk assessment, and evidence tracking. No server or cloud account required.
+- 🛡️ **[DORA to ISO 27001 Mapping with UK FCA/PRA Operational Resilience Overlay](https://github.com/sudo-compliance/grc-lab/tree/main/topics/dora-iso27001-uk-operational-resilience-mapping)**  
+  Maps DORA's five pillars to ISO/IEC 27001:2022 Annex A controls with an FCA and PRA operational resilience overlay. Identifies the gaps firms operating under both regimes have to close.
+
+- 📊 **[GRC Maturity Assessment Tool](https://github.com/sudo-compliance/grc-lab/tree/main/topics/grc-maturity-assessment-tool)**  
+  A browser-based maturity assessment across 10 GRC domains and 40 questions, aligned to ISO/IEC 27001:2022 Annex A with DORA and UK FCA/PRA touchpoints. Produces scored output, a radar chart and prioritised recommendations. Nothing is stored or transmitted.
 
 - 🔎 **[GRC Lab](https://github.com/sudo-compliance/grc-lab)**  
   Reproducible labs, articles, and replication packs for Cybersecurity and GRC.
